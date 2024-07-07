@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Trabajos\TPs y Parciales\MyA1 - Parcial 2 - Antúnez - Jellinek - Yamagusuku Maeda" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scenes" t="Include">
+          <e p="Menu.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Entities" t="Include">
+            <e p="Asteroid" t="Include">
+              <e p="Asteroid.cs" t="Include" />
+              <e p="AsteroidBuilder.cs" t="Include" />
+              <e p="AsteroidSpawner.cs" t="Include" />
+              <e p="AsteroidType" t="Include">
+                <e p="AsteroidBig.cs" t="Include" />
+                <e p="AsteroidMedium.cs" t="Include" />
+                <e p="AsteroidSmall.cs" t="Include" />
+                <e p="AsteroidType.cs" t="Include" />
+              </e>
+              <e p="FlyWeightAsteroid.cs" t="Include" />
+            </e>
+            <e p="PlayerMVC" t="Include">
+              <e p="BulletSpawner.cs" t="Include" />
+              <e p="PlayerController.cs" t="Include" />
+              <e p="PlayerModel.cs" t="Include" />
+              <e p="WeaponTypes" t="Include">
+                <e p="Weapon.cs" t="Include" />
+                <e p="WeaponAutomatic.cs" t="Include" />
+                <e p="WeaponLaser.cs" t="Include" />
+                <e p="WeaponSin.cs" t="Include" />
+              </e>
+            </e>
+            <e p="PowerUps" t="Include">
+              <e p="LifePowerUpDecorator.cs" t="Include" />
+              <e p="PowerUp.cs" t="Include" />
+              <e p="RewindPowerUpDecorator.cs" t="Include" />
+            </e>
+            <e p="Proyectile" t="Include">
+              <e p="FlyWeightProyectile.cs" t="Include" />
+              <e p="Proyectile.cs" t="Include" />
+              <e p="ProyectileBuilder.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="Commands" t="Include">
+              <e p="Down.cs" t="Include" />
+              <e p="ICommand.cs" t="Include" />
+              <e p="Left.cs" t="Include" />
+              <e p="Right.cs" t="Include" />
+              <e p="Rotation.cs" t="Include" />
+              <e p="Up.cs" t="Include" />
+            </e>
+            <e p="Decorator" t="Include">
+              <e p="IDecorator.cs" t="Include" />
+            </e>
+            <e p="IBehaviour" t="Include">
+              <e p="BehaviourEmpty.cs" t="Include" />
+              <e p="BehaviourOneMedium.cs" t="Include" />
+              <e p="BehaviourTwoSmall.cs" t="Include" />
+              <e p="IBehaviour.cs" t="Include" />
+            </e>
+            <e p="IMove" t="Include">
+              <e p="IMove.cs" t="Include" />
+              <e p="MoveForward.cs" t="Include" />
+              <e p="MoveSin.cs" t="Include" />
+              <e p="MoveStatic.cs" t="Include" />
+            </e>
+            <e p="IShoot" t="Include">
+              <e p="Constant.cs" t="Include" />
+              <e p="IShoot.cs" t="Include" />
+              <e p="OnClick.cs" t="Include" />
+            </e>
+            <e p="IUpdate.cs" t="Include" />
+            <e p="Memento" t="Include">
+              <e p="AsteroidsSnapshot.cs" t="Include" />
+              <e p="IReminder.cs" t="Include" />
+              <e p="Memento.cs" t="Include" />
+              <e p="MementoManager.cs" t="Include" />
+              <e p="PlayerSnapshot.cs" t="Include" />
+              <e p="ScoreSnapshot.cs" t="Include" />
+            </e>
+          </e>
+          <e p="System" t="Include">
+            <e p="Binary" t="Include">
+              <e p="BinaryData_Manager.cs" t="Include" />
+              <e p="BinarySerializer.cs" t="Include" />
+              <e p="Data_Asteroids.cs" t="Include" />
+              <e p="Data_Player.cs" t="Include" />
+              <e p="Data_Score.cs" t="Include" />
+              <e p="IData.cs" t="Include" />
+            </e>
+            <e p="FactoryMethod.cs" t="Include" />
+            <e p="FlyWeight.cs" t="Include" />
+            <e p="Localization" t="Include">
+              <e p="GlobalIdioma.cs" t="Include" />
+              <e p="NotificationCenter.cs" t="Include" />
+              <e p="Texto.cs" t="Include" />
+            </e>
+            <e p="LookUpTable" t="Include">
+              <e p="ExplosionTable.cs" t="Include" />
+              <e p="LookUpTable.cs" t="Include" />
+              <e p="PowerUpTable.cs" t="Include" />
+              <e p="RoundTable.cs" t="Include" />
+            </e>
+            <e p="Managers" t="Include">
+              <e p="EventManager.cs" t="Include" />
+              <e p="GameManager.cs" t="Include" />
+              <e p="LifeManager.cs" t="Include" />
+              <e p="RoundManager.cs" t="Include" />
+              <e p="ScoreManager.cs" t="Include" />
+              <e p="SoundManager.cs" t="Include" />
+              <e p="UpdateManager.cs" t="Include" />
+            </e>
+            <e p="Pool.cs" t="Include" />
+            <e p="View.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="MyA1 - Parcial 2 - Antúnez - Jellinek - Yamagusuku Maeda.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Yama\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Yama\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_MyA1 - Parcial 2 - Antúnez - Jellinek - Yamagusuku Maeda.1815654457.00" t="ExcludeRecursive" />
+  </component>
+</project>

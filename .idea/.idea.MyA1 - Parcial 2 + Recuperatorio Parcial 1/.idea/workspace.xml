@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56c9fde3-0e22-43e3-849a-be04529a2745" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Entities/Asteroid/Asteroid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Entities/Proyectile/Proyectile.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/System/FlyWeightProyectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IMove/MoveStatic.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Proyectile/FatherProyectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Proyectile/IProyectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Proyectile/IWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Proyectile/ProyectileLaser.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Proyectile/ProyectileSin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Proyectile/ProyectileBullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Asteroid/FatherAsteroid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Proyectile/BulletSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Weapon/IWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Weapon/WeaponAutomatic.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Weapon/WeaponLaser.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Weapon/WeaponSin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IShoot/IShoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IShoot/OnClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IShoot/Constant.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Weapon/BulletSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Asteroid/AsteroidSmall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Asteroid/AsteroidMedium.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Asteroid/FlyWeightAsteroid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Asteroid/Asteroid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Asteroid/IConstruct/IConstruct.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Asteroid/AsteroidBig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Weapon/IWeapon/IWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Asteroid/AsteroidSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Proyectile/Proyectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Asteroid/IConstruct/AsteroidMedium.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Asteroid/IConstruct/AsteroidBig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Asteroid/IConstruct/AsteroidSmall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Weapon/IWeapon/WeaponAutomatic.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Weapon/IWeapon/WeaponSin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Weapon/IWeapon/WeaponLaser.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/System/FlyWeight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IMove/MoveSin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Entities/Proyectile/FlyWeightProyectile.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kTfG1UdenNoTTx1irCHKh8AG7S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56c9fde3-0e22-43e3-849a-be04529a2745" name="Default Changelist" comment="" />
+      <created>1605729408994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605729408994</updated>
+      <workItem from="1605729425163" duration="2177000" />
+      <workItem from="1605731997706" duration="5834000" />
+      <workItem from="1605829922922" duration="12697000" />
+      <workItem from="1605865350540" duration="5574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1244" y="103" width="1337" height="756" maximized="true" key="dock-window-1" timestamp="1605881080434">
+      <screen x="-1280" y="0" width="1280" height="768" />
+    </state>
+    <state x="-1244" y="103" width="1337" height="756" maximized="true" key="dock-window-1/0.0.1366.768/-1280.0.1280.768@0.0.1366.768" timestamp="1605881080434" />
+    <state x="-1280" y="0" width="1296" height="756" key="dock-window-2" timestamp="1605883557322">
+      <screen x="-1280" y="0" width="1280" height="768" />
+    </state>
+    <state x="-1280" y="0" width="1296" height="756" key="dock-window-2/0.0.1366.768/-1280.0.1280.768@0.0.1366.768" timestamp="1605883557322" />
+    <state x="338" y="172" key="run.anything.popup" timestamp="1605862070588">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="338" y="172" key="run.anything.popup/0.0.1366.768/-1280.0.1280.768@0.0.1366.768" timestamp="1605862070588" />
+  </component>
+</project>
